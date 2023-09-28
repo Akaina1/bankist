@@ -7,10 +7,10 @@ Live Demo Link: https://akaina1-bankist-user-account.netlify.app
 
 Demo can be accessed with the following account info:
 
-User 1:
+User 1...
 username: dw
 password: 1111
 
-User 2:
+User 2...
 username: jw
 password: 2222
